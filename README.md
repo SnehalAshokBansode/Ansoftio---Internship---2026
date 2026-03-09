@@ -7,3 +7,5 @@ College:- Adsul Technical Campus Chas Ahilyanagar
 Branch :- MCA
 
 Skills:- Communication, Html/css, python,php basic,MySql, oops,c
+
+Internship Domain:- Python Developer 
